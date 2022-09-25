@@ -1,11 +1,14 @@
 Hi 👋 Zekun Lou here.
 
-- 🏃‍ Currently working on ML applications in material science.
-  - 🔬 To be precise, I'm working on designing descriptors of condensed matters for material reversed designing.
-  - 🔧 I do most of my work with Python and PyTorch.
-  - ➕ Plus, I'm also interested in Wolfram Mathematica.
-- 🙄 I'm still learning the basis of ML.
-  - 🤔 Because I major in Physics rather than CS.
+- 🏃‍ Currently working on **AI for Science**.
+    - 🔁 Reversed bialloy designing, tutored by [Hongjun Xiang @ Fudan University](https://scholar.google.com/citations?hl=zh-CN&user=5GcATiIAAAAJ).
+    - ⛰️ Neural network potentials in DFT, tutored by [Hansen Zhong @ pjlab](https://www.semanticscholar.org/author/H.-Xiang/3555470).
+    - I am trying to apply for 👨‍🎓 Ph.D. 👨‍🎓 positions on these two topics 🔬 (or relevant ones on AI4Science).
+- 🙄 I consider myself a beginner to ML's vast land.
+    - 🤔 Because I major in Physics rather than CS.
+- ⚡ Fact (fun facts...? I don't think so):
+    - 🔧 I do most of my work with Python and PyTorch.
+    - ➕ Plus, I'm also interested in Wolfram Mathematica.
 - 📧 Email address: [nqhqnqhq@outlook.com](mailto:nqhqnqhq@outlook.com)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=nqhq-lou&show_icons=true)
