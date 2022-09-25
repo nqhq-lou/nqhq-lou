@@ -2,7 +2,7 @@ Hi 👋 Zekun Lou here.
 
 - 🏃‍ Currently working on **AI for Science**.
     - 🔁 Reversed bialloy designing, tutored by [Hongjun Xiang @ Fudan University](https://scholar.google.com/citations?hl=zh-CN&user=5GcATiIAAAAJ).
-    - ⛰️ Neural network potentials in DFT, tutored by [Hansen Zhong @ pjlab](https://www.semanticscholar.org/author/H.-Xiang/3555470).
+    - ⛰️ Neural network potentials in DFT, tutored by [Hansen Zhong @ pjlab](https://www.semanticscholar.org/author/Han-Sen-Zhong/28497379).
     - I am trying to apply for 👨‍🎓 Ph.D. 👨‍🎓 positions on these two topics 🔬 (or relevant ones on AI4Science).
 - 🙄 I consider myself a beginner to ML's vast land.
     - 🤔 Because I major in Physics rather than CS.
