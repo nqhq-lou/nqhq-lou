@@ -1,6 +1,7 @@
 Hi 👋 Zekun Lou here.
 
-![Click for my CV](https://github.com/nqhq-lou/nqhq-lou/blob/main/ZekunLou_CV_latest.pdf)
+[Click to download my CV](https://github.com/nqhq-lou/nqhq-lou/raw/main/ZekunLou_CV_latest.pdf)
+
 
 - 🏃‍ Currently working on **AI for Science**.
     - 🔁 Reversed bialloy designing, tutored by [Hongjun Xiang @ Fudan University](https://scholar.google.com/citations?hl=zh-CN&user=5GcATiIAAAAJ).
