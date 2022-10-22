@@ -1,5 +1,7 @@
 Hi 👋 Zekun Lou here.
 
+![Click for my CV](https://github.com/nqhq-lou/nqhq-lou/blob/main/ZekunLou_CV_latest.pdf)
+
 - 🏃‍ Currently working on **AI for Science**.
     - 🔁 Reversed bialloy designing, tutored by [Hongjun Xiang @ Fudan University](https://scholar.google.com/citations?hl=zh-CN&user=5GcATiIAAAAJ).
     - ⛰️ Neural network potentials in DFT, tutored by [Hansen Zhong @ pjlab](https://www.semanticscholar.org/author/Han-Sen-Zhong/28497379).
