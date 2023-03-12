@@ -4,8 +4,8 @@ Hi 👋 Zekun Lou here.
 
 
 - 🏃‍ Currently working on **AI for Science**.
+    - ⛰️ Neural network XC functionals. Advisor: [Hansen Zhong @ Shanghai AI laboratory](https://scholar.google.com/citations?user=X_ZfX8sAAAAJ).
     - 🔁 Reversed bialloy designing. Advisor: [Hongjun Xiang @ Fudan University](https://scholar.google.com/citations?hl=zh-CN&user=5GcATiIAAAAJ).
-    - ⛰️ Neural network potentials in DFT. Advisor: [Hansen Zhong @ Shanghai AI laboratory](https://scholar.google.com/citations?user=X_ZfX8sAAAAJ).
     - I am trying to apply for a 👨‍🎓 Ph.D. 👨‍🎓 position on related topics 🔬 (or not, by still on AI4Science).
 - 🙄 I consider myself a beginner to ML's vast land.
     - 🤔 Because I major in Physics rather than CS.
