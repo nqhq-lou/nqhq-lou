@@ -1,6 +1,6 @@
 Hi 👋 Zekun Lou here.
 
-[Click to download my CV](https://github.com/nqhq-lou/nqhq-lou/raw/main/ZekunLou_CV_latest.pdf)
+<!-- [Click to download my CV](https://github.com/nqhq-lou/nqhq-lou/raw/main/ZekunLou_CV_latest.pdf) -->
 
 
 - 🏃‍ Currently working on **AI for Science**.
