@@ -1,0 +1,6 @@
+.vscode/
+main.*
+
+!main.pdf
+!main.tex
+!structure.tex

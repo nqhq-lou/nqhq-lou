@@ -1,0 +1,206 @@
+\documentclass[11pt]{article} % Default document font size
+
+\input{structure.tex}
+
+% Set PDF meta-information
+
+\hypersetup{
+    pdftitle={Zekun Lou - Curriculum vitae},
+    pdfauthor={Zekun Lou}
+    }
+
+\begin{document}
+
+\begin{center}
+
+\textbf{\Large Zekun Lou ({\kaishu 娄泽坤})}
+
+Department of Physics, Fudan University
+
+No. 220 Handan Road, Shanghai 200433, China
+
+{\itshape Phone}: +86-18738402676 \
+{\itshape Email}: \href{mailto:zklou19@fudan.edu.cn}{zklou19@fudan.edu.cn}
+\end{center}
+
+\vspace{-3ex}
+\rule{\textwidth}{1pt}
+\vspace{-4ex}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+\section*{Education}
+
+B.S. in Physics, Fudan University, China
+\hfill 09/2019 - 07/2023 (Expected)
+
+\begin{itemize}
+    \item Cumulative GPA: 3.80/4.0 (Department rank: 6/104).
+    \item Selected into Honored Student Program (top 10\% admitted) each year.
+    \item Relevant courses: Computational Physics, Solid State Physics, (Advanced) Quantum Mechanics, (Advanced) Electrodynamics, \verb|C++/Python| Programming, Machine Learning (via Cousera).
+\end{itemize}
+
+% Pre-college Education, in Henan, China
+% \hfill Born - 07/2019
+
+
+
+% \section*{\sout{Publications} {\tiny Not yet. Wait and see.}}
+
+\section*{Research Interests}
+
+Artificial Intelligence for Science (Materials Science, Computational Physics, Chemistry), Many-body Interaction (excitons and coupling)
+
+
+\section*{Research Projects}
+
+\textbf{Neural network XC functionals}
+\hfill Shanghai AI Laboratory
+
+Advisor: \href{https://scholar.google.com/citations?user=X_ZfX8sAAAAJ}{Dr. Han-Sen Zhong}
+\hfill 09/2022 - Present
+
+\begin{itemize}
+    \item Develop neural network-based exchange-correlation functionals ($V_{\mathrm{XC}}^{\mathrm{NN}}$) for Kohn-Sham density functional theory.
+    \item Set up datasets consists of $V_{\mathrm{XC}}$ with $\rho$ labels of different chemical accuracies by PySCF and Gaussian.
+    \item Build Unet-inspired $V_{\mathrm{XC}}^{\mathrm{NN}}$ on rasterized grids and quadrature grids. Build equivariant graph convolutional $V_{\mathrm{XC}}^{\mathrm{NN}}$ with atom-centered electron descriptors. Deploy above $V_{\mathrm{XC}}^{\mathrm{NN}}$s in PySCF self-consistent field calculation.
+\end{itemize}
+
+
+
+\textbf{Reversible bialloy descriptor}
+\hfill Fudan University
+
+Advisor: \href{https://scholar.google.com/citations?user=5GcATiIAAAAJ}{Prof. Hongjun Xiang}
+\hfill 02/2022 - Present
+
+\begin{itemize}
+    \item Search for "good" descriptors of bialloy structures. Perform  reconstruction tests on Fourier transformation coefficients and cluster expansion messages.
+    \item Encode bialloy structures by Graph Neural Networks and build generative models by Variational Autoencoder for property optimization.
+\end{itemize}
+
+
+
+\textbf{Pirani gauge teaching experiment}
+\hfill Fudan University
+
+Advisor: \href{http://phylab.fudan.edu.cn/doku.php?id=home:xiaole}{Prof. Yongkang Le}
+\hfill 06/2021 - 08/2022
+
+\begin{itemize}
+    \item Develop a Pirani gauge teaching experiment.
+    \item Everything starts from zero, including circuit designing, microcontroller programming, and PID tuning. Learned lots of techniques and lab skills. User instructions and lab handouts are available for undergraduate students.
+\end{itemize}
+
+
+\textbf{Vacuum chamber and puck design}
+\hfill Fudan University
+
+Advisor: \href{https://scholar.google.com/citations?user=IdLAVPsAAAAJ}{Prof. Yuanbo Zhang}
+\hfill 09/2021 - 03/2022
+
+\begin{itemize}
+    \item Design sample pucks and functional vacuum chambers for an ultra-low temperature \& strong magnetic field dilution refrigerator.
+    \item Design a tricky and robust mechanism for installing/removing the puck from the cold dock plate.
+\end{itemize}
+
+
+
+
+\section*{Course Projects}
+
+\textbf{Invisible cloak}
+\hfill 09/2021 - 12/2021
+
+{\itshape Electrodynamics I}. Advised by \href{https://scholar.google.com/citations?user=4x9SoV0AAAAJ}{Prof. Lei Zhou}.
+
+\begin{itemize}
+    \item Design electromagnetic field controlling meta-structures based on transformation optics and conformal mapping. Analyse energy scattering caused by impedance mismatch, and correct it using gradient-index meta-surfaces.
+    \item Verify the above theoretical results by COMSOL FEA simulation.
+\end{itemize}
+
+
+\textbf{Heisenberg model in nano particles}
+\hfill 03/2021 - 06/2021
+
+{\itshape Statistical Physics I}, best two in all 13 projects.
+
+\begin{itemize}
+    \item Research the behaviors of anisotropic Heisenberg model in nanomagnetic particles.
+    \item Implement Monte Carlo Metropolis algorithm in \verb|C++|.
+\end{itemize}
+
+\textbf{Drifting Speckles in laser spots}
+\hfill 09/2019 - 08/2020
+
+{\itshape Basic Physics Modeling}, best two in all 17 projects.
+
+\begin{itemize}
+    \item Research the properties of the laser speckle phenomenon, mainly about Fourier optics.
+    \item Conducted experiments, theoretical analysis, and computational simulations (in \verb|C| and \verb|OpenMP|).
+\end{itemize}
+
+
+
+\section*{Skills}
+
+\textbf{Second language}: English. IELTS 7.0. TOEFL iBT 100 (Speaking 24).
+
+\textbf{Programming Languages}:
+Python (PyTorch, PySCF, NumPy, Pandas, etc.), Wolfram Language (\href{https://www.bilibili.com/video/BV1uA4y1X7tU/}{my lecture video}), \verb|C/C++|, \LaTeX, PowerShell, bash, \verb|C/microPython| for SCMs.
+
+\textbf{Software}:
+VS Code, Mathematica, COMSOL, LAMMPS, VESTA, SOLIDWORKS, Multisim, Arduino, Keil5, Origin, Mathcha Notebook, MikTeX, Overleaf, MS Office.
+
+
+
+\section*{Honors \& Prizes}
+
+National undergraduate scholarship (top scholarship, top 2\% in Fudan)
+\hfill 2020, 2022
+
+First class scholarship of Fudan University (top 5\% in Fudan)
+\hfill 2021
+
+Freshmen scholarship of Fudan University (for outstanding in CPhO 2018)
+\hfill 2019
+
+\vspace{2ex}
+
+National top student project in basic science (top 10\% in physics)
+\hfill 2020, 2021, 2022
+
+Honored student in physics department (top 10\% in physics)
+\hfill 2020, 2021, 2022
+
+\vspace{2ex}
+
+First prize in China Undergraduate Mathematical Contest in Modeling (Shanghai)
+\hfill 2022
+
+First prize in National Physics Competition for College Students
+\hfill 2019, 2021
+
+First prize in National Physics Experiment Competition for College Students  (rank first)
+\hfill 2021
+
+Second prize in China Undergraduate Physics Tournament (CUPT)
+\hfill 2020
+
+Second prize in China Physics Olympiad (CPhO 2018, in high school)
+\hfill 2018
+
+
+
+% \section*{Interests}
+
+% \textbf{Academic}:
+
+% AI for science (epsecially in materials science and computational chemistry), solid state physics, quantum computing.
+
+% \textbf{Sports \& Musical}:
+% Badminton, swimming. Accordion.
+
+
+\end{document}
