@@ -9,8 +9,8 @@ Hi 👋 Zekun Lou here.
     - 🔁 Reversed bialloy designing. Advisor: [Hongjun Xiang @ Fudan University](https://scholar.google.com/citations?user=5GcATiIAAAAJ). (Suspended)
     - 🔧 Past research experiences are about experimental physics, including designing vacuum chamber and developing pirani gauge.
     - ~~I am trying to apply for a 👨‍🎓 Ph.D. 👨‍🎓 position on related topics 🔬 (or not, by still on AI4Science).~~
-    - Incomming graduate at [SAbIA group](https://github.com/sabia-group), Max Planck Institute for the Structure and Dynamics of Matter (MPSD).
-        - ~~Outcomming~~ Advisor: [Mariana Rossi @ MPSD](https://scholar.google.com/citations?user=SrQ3yboAAAAJ). ~~(Because I am Incomming you know.)~~
+    - Incoming graduate at [SAbIA group](https://github.com/sabia-group), Max Planck Institute for the Structure and Dynamics of Matter (MPSD).
+        - ~~Outcoming~~ Advisor: [Mariana Rossi @ MPSD](https://scholar.google.com/citations?user=SrQ3yboAAAAJ). ~~(Because I am Incoming you know.)~~
 - 🙄 I consider myself a beginner to ML's vast land.
     - 🤔 Because I major in Physics rather than CS.
 - ⚡ Fact (fun facts...? I don't think so):
