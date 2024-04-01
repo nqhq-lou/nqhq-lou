@@ -4,13 +4,12 @@ Hi 👋 Zekun Lou here.
 
 
 - 🏃‍ Currently working on **AI for Science (Physics, Materials Science)**.
-    - 🪜 Neural network XC functionals. Advisor: [Hansen Zhong @ Shanghai AI laboratory](https://scholar.google.com/citations?user=X_ZfX8sAAAAJ).
-        - Co-advised by Prof. Hongjun Xiang since April, 2023.
-    - 🔧 Past research experiences are about experimental physics, including designing vacuum chamber and developing pirani gauge.
-    - ~~I am trying to apply for a 👨‍🎓 Ph.D. 👨‍🎓 position on related topics 🔬 (or not, by still on AI4Science).~~
-    - Incoming graduate at [SAbIA group](https://github.com/sabia-group), Max Planck Institute for the Structure and Dynamics of Matter (MPSD).
+    - Graduate student at [SAbIA group](https://github.com/sabia-group), Max Planck Institute for the Structure and Dynamics of Matter (MPSD).
         - Advisor: [Mariana Rossi @ MPSD](https://scholar.google.com/citations?user=SrQ3yboAAAAJ).
-        <!-- - Will study for a master's degree at RWTH Aachen from 2023 to 2024, and then move to Hamburg to officially start my PhD. -->
+        - Current reading for the Master's degree at Prof. Dante's group, RWTH.
+    - 🪜 Neural network XC functionals.
+        - Advisor: [Hansen Zhong @ Shanghai AI laboratory](https://scholar.google.com/citations?user=X_ZfX8sAAAAJ).
+    - 🔧 Past research experiences are about experimental physics, including designing vacuum chamber and developing pirani gauge.
 - 🙄 I consider myself a beginner to ML's vast land.
     - 🤔 Because I major in Physics rather than CS.
 - ⚡ Fact (fun facts...? I don't think so):
