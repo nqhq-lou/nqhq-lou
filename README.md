@@ -7,9 +7,9 @@ Hi 👋 Zekun Lou here.
         - Advisor: [Mariana Rossi @ MPSD](https://scholar.google.com/citations?user=SrQ3yboAAAAJ).
         - Current reading for the Master's degree at Prof. Dante's group, RWTH.
     - Working on developing [SALTED](https://github.com/andreagrisafi/SALTED), a Gaussian process regression model for electron density prediction.
-    - Past project:
+    - Previous project(s):
         - 🪜 Accurate XC functionals based on equivariant graph neural network. Advisor: Han-sen Zhong.
-    - 🔧 Past research experiences are about experimental physics, including designing vacuum chamber and developing pirani gauge.
+        - 🔧 Other research experiences are mainly about experimental physics during my bachelor's, including designing vacuum chamber and developing pirani gauge.
 - 🙄 I consider myself (always) a beginner to ML's vast land.
     - 🤔 Because I major in Physics rather than CS.
 - ⚡ Fact (fun facts...? I don't think so):
