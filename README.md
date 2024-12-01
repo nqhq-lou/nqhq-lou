@@ -3,13 +3,12 @@ Hi 👋 Zekun Lou here.
 <!-- [Click to download my CV](https://github.com/nqhq-lou/nqhq-lou/raw/main/ZekunLou_CV_latest.pdf) -->
 
 - 🏃‍ Currently working on **AI for Science (Physics, Materials Science)**.
-    - Graduate student at [SAbIA group](https://github.com/sabia-group), Max Planck Institute for the Structure and Dynamics of Matter (MPSD).
+    - PhD student at [SAbIA group](https://github.com/sabia-group), Max Planck Institute for the Structure and Dynamics of Matter (MPSD) @ Hamburg.
         - Advisor: [Mariana Rossi @ MPSD](https://scholar.google.com/citations?user=SrQ3yboAAAAJ).
-        - Current reading for the Master's degree at Prof. Dante's group, RWTH.
     - Working on developing [SALTED](https://github.com/andreagrisafi/SALTED), a Gaussian process regression model for electron density prediction.
     - Previous project(s):
         - 🪜 Accurate XC functionals based on equivariant graph neural network. Advisor: Han-sen Zhong.
-        - 🔧 Other research experiences are mainly about experimental physics during my bachelor's, including designing vacuum chamber and developing pirani gauge.
+        - 🔧 Other research experiences are mainly about experimental physics during my bachelor's (in Fudan University, China), including designing vacuum chamber and developing pirani gauge.
 - 🙄 I consider myself (always) a beginner to ML's vast land.
     - 🤔 Because I major in Physics rather than CS.
 - ⚡ Fact (fun facts...? I don't think so):
